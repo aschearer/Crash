@@ -1,0 +1,7 @@
+Crash
+
+Actionscript 3 library to partition objects in physical space. Each body is
+placed into a cell based on its position and extent. You can then retrieve
+useful information from the grid such as what objects are intersecting each
+other, what objects are intersecting a given body, and what objects are
+neighboring a given object.
